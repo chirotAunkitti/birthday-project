@@ -5,7 +5,7 @@ const images = [
     'HBD/images/H7.jpg', 'HBD/images/H8.jpg', 'HBD/images/H9.jpg',
     'HBD/images/H10.jpg', 'HBD/images/H11.jpg'
 ];
-const songs = ['music/HBD.mp4'];
+const songs = ['HBD/music/HBD.mp4'];
 let currentImageIndex = 0;
 let currentSongIndex = 0;
 let isMusicLoaded = false;  // ตัวแปรเพื่อเช็คว่าเพลงได้โหลดและเริ่มเล่นแล้วหรือยัง
