@@ -1,9 +1,9 @@
 const correctPin = "281103";
 const images = [
-    'images/H1.jpg', 'images/H2.jpg', 'images/H3.jpg',
-    'images/H4.jpg', 'images/H5.jpg', 'images/H6.jpg',
-    'images/H7.jpg', 'images/H8.jpg', 'images/H9.jpg',
-    'images/H10.jpg', 'images/H11.jpg'
+    'HBD/images/H1.jpg', 'HBD/images/H2.jpg', 'HBD/images/H3.jpg',
+    'HBD/images/H4.jpg', 'HBD/images/H5.jpg', 'HBD/images/H6.jpg',
+    'HBD/images/H7.jpg', 'HBD/images/H8.jpg', 'HBD/images/H9.jpg',
+    'HBD/images/H10.jpg', 'HBD/images/H11.jpg'
 ];
 const songs = ['music/HBD.mp4'];
 let currentImageIndex = 0;
